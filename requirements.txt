@@ -1,0 +1,8 @@
+numpy
+pandas
+rasterio
+tensorflow
+scikit-learn
+matplotlib
+seaborn
+earthengine-api
